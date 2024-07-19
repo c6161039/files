@@ -11,7 +11,7 @@ echo "y"
 sleep 1
 echo "2"
 sleep 1
-read -p "NodeID: " user_input
+read -p "请手动输入NodeID并按回车: " user_input
 echo "$user_input"
 sleep 1
 echo "3"
