@@ -1,7 +1,7 @@
 #!/bin/bash
 
 (
-sleep 2
+sleep 1
 echo "y"
 sleep 1
 echo "https://board.fearless.icu/"
